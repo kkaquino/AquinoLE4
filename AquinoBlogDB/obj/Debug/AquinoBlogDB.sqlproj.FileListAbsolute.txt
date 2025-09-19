@@ -1,0 +1,6 @@
+C:\Users\Kern\source\repos\AquinoLE2\AquinoBlogDB\bin\Debug\AquinoBlogDB.dacpac
+C:\Users\Kern\source\repos\AquinoLE2\AquinoBlogDB\bin\Debug\AquinoBlogDB.dll
+C:\Users\Kern\source\repos\AquinoLE2\AquinoBlogDB\bin\Debug\AquinoBlogDB.pdb
+C:\Users\Kern\source\repos\AquinoLE2\AquinoBlogDB\obj\Debug\AquinoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Kern\source\repos\AquinoLE2\AquinoBlogDB\obj\Debug\AquinoBlogDB.dll
+C:\Users\Kern\source\repos\AquinoLE2\AquinoBlogDB\obj\Debug\AquinoBlogDB.pdb
