@@ -1,0 +1,13 @@
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.sourcelink.json
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\Kern\source\repos\AquinoLE2\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
