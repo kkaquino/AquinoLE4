@@ -34,6 +34,20 @@ namespace BlogAPI.Controllers
             return Ok(post);
         }
 
+        [Authorize]
+        [HttpPost("add")]
+        public ActionResult AddPost([FromBody] PostForm form)
+        {
+            PostModel post = new PostModel();
+            post.Title = form.Title;
+            post.Body = form.Body;
+            post.DateCreated = DateTime.Now;
+            post.UserId = GetCurrentUserId();
+            _db.AddPost(post);
+
+            return Ok("Post created.");
+        }
+
         private int GetCurrentUserId()
         {
             var identity = HttpContext.User.Identity as ClaimsIdentity;
